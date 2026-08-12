@@ -26,4 +26,12 @@ Power BI: visualization and analytics
 
 ## Power BI Report
 
-https://github.com/jyngyconsulting/Earthquake-Events-tracker/issues/1
+
+
+
+
+https://github.com/user-attachments/assets/299017be-d4f0-428a-bca7-57233a955195
+
+
+
+
