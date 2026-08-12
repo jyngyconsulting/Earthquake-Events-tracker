@@ -26,4 +26,4 @@ Power BI: visualization and analytics
 
 ## Power BI Report
 
-<iframe title="Earthquakes" width="1140" height="541.25" src="https://app.fabric.microsoft.com/reportEmbed?reportId=2407399c-0cac-4c7a-81eb-06c37040ef45&autoAuth=true&ctid=303ee47d-8b16-43a3-8a48-aef5a55b31c0" frameborder="0" allowFullScreen="true"></iframe>
+https://github.com/jyngyconsulting/Earthquake-Events-tracker/issues/1
